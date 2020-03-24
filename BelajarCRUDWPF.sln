@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelajarCRUDWPF", "BelajarCRUDWPF\BelajarCRUDWPF.csproj", "{4A25C321-6888-4C87-AA0F-E9FC6BE271A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A25C321-6888-4C87-AA0F-E9FC6BE271A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A25C321-6888-4C87-AA0F-E9FC6BE271A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A25C321-6888-4C87-AA0F-E9FC6BE271A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A25C321-6888-4C87-AA0F-E9FC6BE271A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E64ED74-F5B8-4B68-965E-92D137275D5F}
+	EndGlobalSection
+EndGlobal
